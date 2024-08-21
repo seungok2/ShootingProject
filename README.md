@@ -3,8 +3,8 @@
 Developed with Unreal Engine 5
 
 Creating by
-1 month of Unreal Engine
-2 people 2 weeks project
+1 month of Unreal Engine,
+2 people, 2 weeks project
 Using Blueprint
 
 1. 배경 소개
