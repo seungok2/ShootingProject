@@ -1,6 +1,10 @@
 # ShootingProject (타워 디펜스 - 미사일 막기)
 
 Developed with Unreal Engine 5
+
+Creating by
+1 month of Unreal Engine
+2 people 2 weeks project
 Using Blueprint
 
 1. 배경 소개
@@ -41,3 +45,6 @@ Using Blueprint
 - 2player play
   
    ![image](https://github.com/user-attachments/assets/8b10e0fb-a979-4a76-9653-4815251fceb0)
+
+
+
