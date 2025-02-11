@@ -7,6 +7,13 @@ Creating by
 2 people, 2 weeks project
 Using Blueprint
 
+동영상 링크
+
+https://drive.google.com/file/d/1K-JN1zvIqZbCwE2UagORjz3d0xjoI0SE/view
+
+![BP_ShootingProject_Gif](https://github.com/user-attachments/assets/381b3ab1-c811-4f6e-a147-60f5ca6c108f)
+
+
 1. 배경 소개
 
 - 어느날 전쟁이 일어났다.
