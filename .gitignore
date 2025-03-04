@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/VigilanteContent/*
+Content/StarterContent/*
+Content/MilitaryWeapSilver/*
+Content/LevelPrototypring/*
+Content/AnimStarterPack/*
